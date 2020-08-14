@@ -3,8 +3,11 @@
 
 including:
 
+* 中文分词 <a href="https://github.com/huichen/sego" target="_blank">sego</a>
+* 中文转拼音 <a href="https://github.com/huichen/pinyin" target="_blank">pinyin</a>
 * Github 中文优秀项目排行榜 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts" target="_blank">GitHub-Chinese-Top-Charts</a>
 * Go获取Github信息API <a href="https://github.com/google/go-github" target="_blank">go-github</a>
+* IPFS客户端 <a href="https://github.com/IPSE-TEAM/ipse-desktop" target="_blank">ipse-desktop</a>
 * IPFS星际文件系统 <a href="https://github.com/miaoski/ipfs-tutorial" target="_blank">ipfs-tutorial</a>
 * 黑苹果安装 <a href="https://github.com/huangyz0918/Hackintosh-Installer-University" target="_blank">Hackintosh-Installer-University</a>
 * 互联网公司架构 <a href="https://github.com/davideuler/architecture.of.internet-product" target="_blank">architecture.of.internet-product</a>
