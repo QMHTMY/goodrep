@@ -26,6 +26,7 @@
 * 文档神器Zeal <a href="https://github.com/zealdocs/zeal" target="_blank">zeal</a>
 * C语言混乱编程大赛 <a href="https://github.com/c00kiemon5ter/ioccc-obfuscated-c-contest" target="_blank">ioccc-obfuscated-c-contest</a>
 * 左耳朵耗子leetcode <a href="https://github.com/haoel/leetcode" target="_blank">leetcode</a>
+* leetcode多语言答案 <a href="https://github.com/yooubei/leetcode_answer" target="_blank">leetcode_answer</a>
 * Windows优秀工具 <a href="https://github.com/Awesome-Windows/Awesome" target="_blank">Awesome-Windows</a>
 * Docker女神的dockerfile <a href="https://github.com/jessfraz/dockerfiles" target="_blank">dockerfiles</a>
 * 用Wifi检测周围人数 <a href="https://github.com/schollz/howmanypeoplearearound" target="_blank">howmanypeoplearearound</a>
