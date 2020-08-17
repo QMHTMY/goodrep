@@ -1,10 +1,13 @@
 ### Description  
 [[中文](./README_CN.md)] collection of good repositories.
 
-including:
+**including:**
+
+*Repository*
 
 * 中文分词 <a href="https://github.com/huichen/sego" target="_blank">sego</a>
 * 中文转拼音 <a href="https://github.com/huichen/pinyin" target="_blank">pinyin</a>
+* 英文语义检查 <a href="https://github.com/amperser/proselint" target="_blank">proselint</a>
 * Github 中文优秀项目排行榜 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts" target="_blank">GitHub-Chinese-Top-Charts</a>
 * Go获取Github信息API <a href="https://github.com/google/go-github" target="_blank">go-github</a>
 * IPFS客户端 <a href="https://github.com/IPSE-TEAM/ipse-desktop" target="_blank">ipse-desktop</a>
@@ -44,3 +47,35 @@ including:
 * ACM清单 <a href="https://github.com/soulmachine/acm-cheat-sheet" target="_blank">acm-cheat-sheet</a>
 * Tex排版书籍 <a href="https://github.com/chenshuo/typeset" target="_blank">typeset</a>
 * 伯乐在线资源整理 <a href="https://github.com/jobbole" target="_blank">jobbole</a>
+
+*Website*
+
+* RFC <a href="https://www.rfc-editor.org/rfc-index.html" target="_blank">RFC列表</a>
+* beego <a href="https://beego.me" target="_blank">beego web框架</a>
+* go力扣 <a href="https://books.halfrost.com/leetcode/" target="_blank">go刷leetcode</a>
+* go并发 <a href="https://www.kancloud.cn/mutouzhang/go" target="_blank">go并发笔记</a>
+* go煎鱼 <a href="https://eddycjy.com" target="_blank">go煎鱼</a>
+* 书栈网 <a href="https://www.bookstack.cn" target="_blank">书栈网</a>
+* 刘未鹏 <a href="http://mindhacks.cn" target="_blank">MindHacks</a>
+* 扯氮集 <a href="http://weiwuhui.com" target="_blank">扯氮集</a>
+* 乐库社区 <a href="https://learnku.com" target="_blank">learnku</a>
+* 编程随想 <a href="https://program-think.blogspot.com" target="_blank">编程随想</a>
+* 刀光剑影 <a href="https://www.cnblogs.com/yjf512/" target="_blank">轩脉刃de刀光剑</a>
+* 地图选择器 <a href="http://datav.aliyun.com/tools/atlas" target="_blank">地图选择器</a>
+* 云风的Blog <a href="https://blog.codingnow.com" target="_blank">云风的Blog</a>
+* 非业余研究 <a href="http://blog.yufeng.info" target="_blank">系统技术非业余研究</a>
+* gopher中国 <a href="https://gocn.vip" target="_blank">gopher中国</a>
+* Elastic中国 <a href="https://elasticsearch.cn" target="_blank">Elastic中国</a>
+* Latex工作室 <a href="https://www.latexstudio.net" target="_blank">Latex工作室</a>
+* go语言中文网 <a href="https://studygolang.com" target="_blank">go语言中文网</a>
+* rust中文社区 <a href="https://rustcc.cn" target="_blank">rust中文社区</a>
+* rust程序语言 <a href="https://kaisery.github.io/trpl-zh-cn/" target="_blank">rust程序语言</a>
+* 当然我在扯淡 <a href="http://www.yinwang.org" target="_blank">当然我在扯淡</a>
+* 面向信仰编程 <a href="https://draveness.me" target="_blank">面向信仰编程</a>
+* 寻我优秀博客 <a href="https://seekbetter.me" target="_blank">寻我优秀博客</a>
+* 酷壳coolshell <a href="https://www.coolshell.cn" target="_blank">Coolshell</a>
+* nullice的日志 <a href="http://nullice.com" target="_blank">nullice的日志</a>
+* Linux内核源码 <a href="https://elixir.bootlin.com/linux/latest/source" target="_blank">Linux内核源码</a>
+* 七月在线创始人 <a href="https://blog.csdn.net/v_july_v" target="_blank">七月在线创始人</a>
+* 阮一峰的网络日志 <a href="http://www.ruanyifeng.com" target="_blank">阮一峰的网络日志</a>
+* 床长人工智能网校 <a href="https://www.captainbed.net" target="_blank">床长人工智能网校</a>
