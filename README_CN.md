@@ -50,7 +50,6 @@
 *网站*
 * RFC <a href="https://www.rfc-editor.org/rfc-index.html" target="_blank">RFC列表</a>
 * beego <a href="https://beego.me" target="_blank">beego web框架</a>
-* go力扣 <a href="https://books.halfrost.com/leetcode/" target="_blank">go刷leetcode</a>
 * go并发 <a href="https://www.kancloud.cn/mutouzhang/go" target="_blank">go并发笔记</a>
 * go煎鱼 <a href="https://eddycjy.com" target="_blank">go煎鱼</a>
 * 书栈网 <a href="https://www.bookstack.cn" target="_blank">书栈网</a>
@@ -59,6 +58,9 @@
 * 乐库社区 <a href="https://learnku.com" target="_blank">learnku</a>
 * 编程随想 <a href="https://program-think.blogspot.com" target="_blank">编程随想</a>
 * 刀光剑影 <a href="https://www.cnblogs.com/yjf512/" target="_blank">轩脉刃de刀光剑</a>
+* go刷力扣 <a href="https://books.halfrost.com/leetcode" target="_blank">go刷力扣</a>
+* java刷力扣1<a href="https://labuladong.gitbook.io/algo" target="_blank">java刷力扣1</a>
+* java刷力扣2<a href="https://leetcode.wang/" target="_blank">java刷力扣2</a>
 * 地图选择器 <a href="http://datav.aliyun.com/tools/atlas" target="_blank">地图选择器</a>
 * 云风的Blog <a href="https://blog.codingnow.com" target="_blank">云风的Blog</a>
 * 非业余研究 <a href="http://blog.yufeng.info" target="_blank">系统技术非业余研究</a>
@@ -77,4 +79,3 @@
 * 七月在线创始人 <a href="https://blog.csdn.net/v_july_v" target="_blank">七月在线创始人</a>
 * 阮一峰的网络日志 <a href="http://www.ruanyifeng.com" target="_blank">阮一峰的网络日志</a>
 * 床长人工智能网校 <a href="https://www.captainbed.net" target="_blank">床长人工智能网校</a>
-
